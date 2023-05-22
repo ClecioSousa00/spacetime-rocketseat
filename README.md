@@ -9,6 +9,16 @@ Este projeto é uma plataforma de cápsula do tempo onde você pode fazer seu ca
 
 
 ##  :rocket: Tecnologias
+
+### Back-End
+* Node
+* Fastify
+* Prisma
+* Dayjs
+* Zod
+* Axios
+* SQLite
+
 ### Front-End
 * React
 * NextJs
@@ -19,14 +29,6 @@ Este projeto é uma plataforma de cápsula do tempo onde você pode fazer seu ca
 * JavaScript Cookie
 * JWT
 * Lucide
-
-### Back-End
-* Node
-* Fastify
-* Prisma
-* Dayjs
-* Zod
-* Axios
 
 ### Mobile
 * React Native
